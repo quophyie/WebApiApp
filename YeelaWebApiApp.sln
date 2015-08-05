@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.22609.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiApp", "WebApiApp\WebApiApp.csproj", "{1286439F-D3FE-4660-B815-F4FADC683496}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YeelaWebApiApp", "WebApiApp\YeelaWebApiApp.csproj", "{1286439F-D3FE-4660-B815-F4FADC683496}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiApp.Tests", "WebApiApp.Tests\WebApiApp.Tests.csproj", "{EE69DD6A-7576-48A8-97E1-5542A19D0EA1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YeelaWebApiApp.Tests", "WebApiApp.Tests\YeelaWebApiApp.Tests.csproj", "{EE69DD6A-7576-48A8-97E1-5542A19D0EA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
